@@ -2,7 +2,7 @@
 I am a fullstack django developer. A student [@coursera](https://www.coursera.org/professional-certificates/meta-back-end-developer), sharing my learning journey.
 * 💻  currently learning working on a [restaurant app](https://github.com/Franklyn883/Littlelemon) using django framework.
 * 🗒 I am currently learning Django rest framework for api development
-* 🤝 I want colaborate with others on Githun and contribute to opensource.
+* 🤝 I want colaborate with others on Github and contribute to opensource.
 * ⛹️‍♂️ I Love listening to music, jogging to keep fit.
 * 💌 You reach me on [twitter](https://twitter.com/FranklynOse883) and  [linkedIn](https://www.linkedin.com/in/franklynose883)
 
@@ -21,5 +21,5 @@ def say_hello(name):
 say_hello("Franklynose")
 //output -> Hello 👋, I am Fraklynose
 ```
-> code snippet
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franklyn883)](https://github.com/anuraghazra/github-readme-stats)
