@@ -1,23 +1,20 @@
 # Hi, I'm Frank 👋
-I am a fullstack django developer. A student [@coursera]([https://www.coursera.org](https://www.coursera.org/professional-certificates/meta-back-end-developer)), sharing my learning journey.
-* <details>
-  <summary>💻  currently learning working on a [restaurant app](https://github.com/Franklyn883/Littlelemon) using django framework.
-  </summary>
-  This was part of my final project in the lab exercies on [django web framework](https://www.coursera.org/learn/django-web-framework),a
-  part of my [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer) on coursera.
-  </details>
+I am a fullstack django developer. A student [@coursera](https://www.coursera.org/professional-certificates/meta-back-end-developer), sharing my learning journey.
+* 💻  currently learning working on a [restaurant app](https://github.com/Franklyn883/Littlelemon) using django framework.
 * 🗒 I am currently learning Django rest framework for api development
-* 🤝 I waant colaborate with others on Githun and contribute to opensource.
+* 🤝 I want colaborate with others on Githun and contribute to opensource.
 * ⛹️‍♂️ I Love listening to music, jogging to keep fit.
 * 💌 You reach me on [twitter](https://twitter.com/FranklynOse883) and  [linkedIn](https://www.linkedin.com/in/franklynose883)
 
-![working hours](https://images.pexels.com/photos/925786/pexels-photo-925786.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 
-### Web Technologies
-HTML | CSS | JAVASCRIPT | PYTHON | SQL | DJANGO | DJANGO RESTFRAMEWORK | GITHUB
+## Languages and tools
 
-```
+![HTML](https://github.com/Franklyn883/Franklyn883/assets/67758035/8d7becff-97fb-4865-9446-74c9a0902b34) ![CSS](https://github.com/Franklyn883/Franklyn883/assets/67758035/884f8546-fe58-4669-a5a0-480fe5bf36ff) ![javascript](https://github.com/Franklyn883/Franklyn883/assets/67758035/28858edf-25ac-4a82-a195-3252c2624651) ![python](https://github.com/Franklyn883/Franklyn883/assets/67758035/c47b5a3b-badd-4e5d-9572-f228cdc3288f) ![mysql](https://github.com/Franklyn883/Franklyn883/assets/67758035/b837052e-56de-449b-be2a-7d4d25a125b8)  ![django](https://github.com/Franklyn883/Franklyn883/assets/67758035/e358adfd-5125-4b31-a3b5-bff4d5dae5ae)  ![github](https://github.com/Franklyn883/Franklyn883/assets/67758035/ea4a5029-16b6-46ce-9387-f94536760d30) 
+
+
+
+```ts
 def say_hello(name):
   print("Hello 👋, I am " + name)
 
