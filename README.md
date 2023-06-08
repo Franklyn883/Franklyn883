@@ -1,5 +1,5 @@
 # Hi, I'm Frank 👋
-I am a fullstack django developer. A student [@coursera]([https://www.coursera.org](https://www.coursera.org/professional-certificates/meta-back-end-developer)), sharing my learning journey.I also love contributing to opensource.
+I am a fullstack django developer. A student [@coursera]([https://www.coursera.org](https://www.coursera.org/professional-certificates/meta-back-end-developer)), sharing my learning journey.
 * <details>
   <summary>💻  currently learning working on a [restaurant app](https://github.com/Franklyn883/Littlelemon) using django framework.
   </summary>
@@ -10,7 +10,8 @@ I am a fullstack django developer. A student [@coursera]([https://www.coursera.o
 * 🤝 I waant colaborate with others on Githun and contribute to opensource.
 * ⛹️‍♂️ I Love listening to music, jogging to keep fit.
 * 💌 You reach me on [twitter](https://twitter.com/FranklynOse883) and  [linkedIn](https://www.linkedin.com/in/franklynose883)
-![project image](
+
+![working hours](https://images.pexels.com/photos/925786/pexels-photo-925786.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 
 ### Web Technologies
