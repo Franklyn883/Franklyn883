@@ -1,7 +1,7 @@
 # Hi, I'm Frank 👋
-I am a fullstack django developer. A student [@coursera](https://www.coursera.org/professional-certificates/meta-back-end-developer), sharing my learning journey.
-* 💻  currently learning working on a [restaurant app](https://github.com/Franklyn883/Littlelemon) using django framework.
-* 🗒 I am currently learning Django rest framework for API development
+I am a full-stack Django developer. I just finished a rigorous Meta backend course at [@coursera]([https://www.coursera.org/professional-certificates/meta-back-end-developer](https://www.coursera.org/account/accomplishments/specialization/certificate/5SVJSKZUNT4R)), sharing my learning journey.
+* 💻  currently learning working on a [Bloging site ](https://github.com/Franklyn883/Littlelemon) using django framework, taking inspiration from Hashnode Design.
+* 🗒 I am currently learning about design patterns in Javascript.
 * 🤝 I want collaborate with others on GitHub and contribute to open source.
 * ⛹️‍♂️ I Love listening to music and jogging to keep fit.
 * 💌 You can reach me on [twitter](https://twitter.com/FranklynOse883) and  [linkedIn](https://www.linkedin.com/in/franklynose883)
