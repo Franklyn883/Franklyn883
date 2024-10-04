@@ -1,7 +1,7 @@
 # Hi, I'm Frank 👋
 Full stack developer | MERN | Django | Cairo | Web3 | Starknet | Smart contract | Python | Javascript.
 * 💻  currently on the cairo-lang! Zero to one Bootcamp by Starknet.
-* 🗒 I am currently learning node and express.
+* 🗒 I am currently learning Cairo language.
 * 🤝 I want collaborate with others on GitHub and contribute to open source.
 * ⛹️‍♂️ I Love listening to music and jogging to keep fit.
 * 💌 You can reach me on [twitter](https://twitter.com/FranklynOse883) and  [linkedIn](https://www.linkedin.com/in/franklynose883)
