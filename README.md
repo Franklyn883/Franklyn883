@@ -11,8 +11,7 @@ Full stack developer | MERN | Django | Cairo | Web3 | Starknet | Smart contract 
 ## Languages and tools
 
 ![HTML](https://github.com/Franklyn883/Franklyn883/assets/67758035/8d7becff-97fb-4865-9446-74c9a0902b34) ![CSS](https://github.com/Franklyn883/Franklyn883/assets/67758035/884f8546-fe58-4669-a5a0-480fe5bf36ff) ![javascript](https://github.com/Franklyn883/Franklyn883/assets/67758035/28858edf-25ac-4a82-a195-3252c2624651) ![python](https://github.com/Franklyn883/Franklyn883/assets/67758035/c47b5a3b-badd-4e5d-9572-f228cdc3288f) ![mysql](https://github.com/Franklyn883/Franklyn883/assets/67758035/b837052e-56de-449b-be2a-7d4d25a125b8)  ![django](https://github.com/Franklyn883/Franklyn883/assets/67758035/e358adfd-5125-4b31-a3b5-bff4d5dae5ae)  ![github](https://github.com/Franklyn883/Franklyn883/assets/67758035/ea4a5029-16b6-46ce-9387-f94536760d30)
-![Cairo](https://github.com/user-attachments/assets/7bcc6888-64ad-469d-9e48-4f70223873c5)
-![node_and_express](https://github.com/user-attachments/assets/cbc0476d-5d7f-4ce0-9040-b877dd71b24f)
+
 
 
 
