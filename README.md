@@ -1,6 +1,6 @@
 # Hi, I'm Frank 👋
-I am a full-stack Django developer. I just finished a rigorous Meta backend course [@coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/5SVJSKZUNT4R), sharing my learning journey.
-* 💻  currently learning working on a [Bloging site ](https://github.com/Franklyn883/Littlelemon) using django framework, taking inspiration from Hashnode Design.
+Full stack developer | MERN | Django | Cairo | Web3 | Starknet | Smart contract | Python | Javascript.
+* 💻  currently on the cairo-lang! Zero to one Bootcamp by Starknet.
 * 🗒 I am currently learning node and express.
 * 🤝 I want collaborate with others on GitHub and contribute to open source.
 * ⛹️‍♂️ I Love listening to music and jogging to keep fit.
@@ -11,6 +11,7 @@ I am a full-stack Django developer. I just finished a rigorous Meta backend cour
 ## Languages and tools
 
 ![HTML](https://github.com/Franklyn883/Franklyn883/assets/67758035/8d7becff-97fb-4865-9446-74c9a0902b34) ![CSS](https://github.com/Franklyn883/Franklyn883/assets/67758035/884f8546-fe58-4669-a5a0-480fe5bf36ff) ![javascript](https://github.com/Franklyn883/Franklyn883/assets/67758035/28858edf-25ac-4a82-a195-3252c2624651) ![python](https://github.com/Franklyn883/Franklyn883/assets/67758035/c47b5a3b-badd-4e5d-9572-f228cdc3288f) ![mysql](https://github.com/Franklyn883/Franklyn883/assets/67758035/b837052e-56de-449b-be2a-7d4d25a125b8)  ![django](https://github.com/Franklyn883/Franklyn883/assets/67758035/e358adfd-5125-4b31-a3b5-bff4d5dae5ae)  ![github](https://github.com/Franklyn883/Franklyn883/assets/67758035/ea4a5029-16b6-46ce-9387-f94536760d30) 
+
 
 
 
