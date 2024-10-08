@@ -30,6 +30,11 @@ I'm a passionate backend developer with a strong foundation in Python and Django
 
 ## Programming Languages
 ![Javascript](https://github.com/user-attachments/assets/7ab81243-912a-4430-8b08-44b35daba971)
+![2](https://github.com/user-attachments/assets/f87de25f-27cb-441c-b66a-8f2aee8cb425)
+![3](https://github.com/user-attachments/assets/9a24a6a4-4b3d-40ff-a8bb-99aff00d6c47)
+![4](https://github.com/user-attachments/assets/ace0e0c4-8d34-4bf8-8970-e1b9d592dc2c)
+![5](https://github.com/user-attachments/assets/8a34aace-19e7-4a4f-adfe-d508547fc825)
+
 
 
 
