@@ -23,7 +23,7 @@ I'm a passionate backend developer with a strong foundation in Python and Django
 
 ## Current Projects
 * Websphere: A blogging platform built with Django and MySQL. [Check it out here](https://franklynose.pythonanywhere.com/).
-* Property Management System: Developing a microservice-based architecture using Django, Flask, and Node.js.
+* Property Management System: Developing a microservice-based architecture using Django, Flask, and Node.js. [Check out the git repo here](https://github.com/Franklyn883/property-management-system).
 * StarkNet Bootcamp: Learning Cairo and building decentralized applications on StarkNet for Web3 development.
 
 
