@@ -8,17 +8,16 @@ I'm a passionate backend developer with a strong foundation in Python and Django
 * 💌 You can reach me on [twitter](https://twitter.com/FranklynOse883) and  [linkedIn](https://www.linkedin.com/in/franklynose883)
 
 ## What I do
-* Backend Development: Skilled in Python, Django, Node.js, and Express.
-* Frontend Development: Working with Angular and MongoDB.
+* Backend Development: Skilled in Python, Django, Djangorestframework, Node.js, and Express.
+* Frontend Development: Working with Angular.
 * Microservices & Databases: Experienced with MySQL, PostgreSQL, and MongoDB.
 * Cloud & DevOps: Proficient with container orchestration using Docker and Kubernetes.
 * Web3 & Blockchain: Exploring blockchain development with StarkNet and the Cairo programming language.
 
 ## Currently Learning
-* Rust: Exploring system-level programming with Rust.
-* Cairo: Delving into Cairo language for Web3 and blockchain development (StarkNet Bootcamp).
+* .
 * Web3 Development: Focused on building decentralized applications with StarkNet.
-* Machine Learning: Enrolled in an AI course with ALX.
+* Prompt Engineering: Focused on optimizing prompts to efficiently apply and build LLMs for different kinds of application and use cases.
 * Improving data structures & algorithms.
 
 ## Current Projects
