@@ -15,10 +15,7 @@ I'm a passionate backend developer with a strong foundation in Python and Django
 * Web3 & Blockchain: Exploring blockchain development with StarkNet and the Cairo programming language.
 
 ## Currently Learning
-* .
-* Web3 Development: Focused on building decentralized applications with StarkNet.
 * Prompt Engineering: Focused on optimizing prompts to efficiently apply and build LLMs for different kinds of application and use cases.
-* Improving data structures & algorithms.
 
 ## Current Projects
 * Websphere: A blogging platform built with Django and MySQL. [Check it out here](https://franklynose.pythonanywhere.com/).
